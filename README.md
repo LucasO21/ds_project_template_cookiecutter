@@ -1,7 +1,7 @@
-ds-project-template
+Cookiecutter Data Science Template
 ==============================
 
-Data Science Project Template (Cookiecutter)
+Data Science Project Template (Cookiecutter). Note - Unused files/folders moved to `archive` folder.
 
 Project Organization
 ------------
