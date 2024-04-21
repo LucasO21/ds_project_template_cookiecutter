@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "src"
+version = "0.1.0"
+description = "Starbucks Reward Program Analysis Project"
+authors = ["LucasO21 <clfo2014@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.9.7 || >3.9.7,<3.10"
+numpy = "^1.26.4"
+seaborn = "^0.13.2"
+pandas = "^2.2.2"
+scikit-learn = "^1.4.2"
+plotly = "^5.21.0"
+lightgbm = "^4.3.0"
+xgboost = "^2.0.3"
+kaggle = "^1.6.12"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
